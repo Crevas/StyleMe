@@ -1,4 +1,4 @@
-package com.example.sethcreasman.styleme;
+package com.example.sethcreasman.styleme.Adapters;
 
 import android.content.Context;
 import android.view.View;
@@ -6,6 +6,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
+
+import com.example.sethcreasman.styleme.R;
 
 /**
  * Created by sethcreasman on 9/21/17.
